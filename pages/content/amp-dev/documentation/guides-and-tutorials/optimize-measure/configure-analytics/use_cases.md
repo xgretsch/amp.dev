@@ -166,7 +166,8 @@ to 90% of `scroll` width:
       "scrollSpec": {
         "verticalBoundaries": [25, 50, 90],
         "horizontalBoundaries": [90]
-      }
+      },
+      "request": "event",
     }
   }
 }
